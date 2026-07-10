@@ -8,6 +8,8 @@ This article proposes a genetic algorithm to minimize makespan and resource wast
 
 ## Steps to run the code
 
+The code can be executed using the notebook or in a local environment. To run it in your machine, please follow the steps below:
+
 - Pre-requisites: have python 3 installed in your machine
 
 1. Open a terminal in the root folder of this project and run the following command to create a virtual environment where your libraries will be installed:
